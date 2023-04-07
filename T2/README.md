@@ -1,2 +1,3 @@
-# PAA
-Repositório para os trabalhos da disciplina Projeto e Análise de Algoritmos, ministrada pelo professor Mário César no semestre 2020/2 da Universidade Federal de São Carlos.
+# T2: Identificação de Descontos
+
+O segundo trabalho consiste em implementar técnicas aprendidas na disciplina até o momento para resolver o problema proposto.
